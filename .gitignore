@@ -1,0 +1,4 @@
+# Exported/packaged extension filetypes
+*.crx
+*.pem
+*.pak

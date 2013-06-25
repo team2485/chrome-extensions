@@ -1,0 +1,17 @@
+{
+   "name": "The W.A.R. Lords",
+   "version": "1.0",
+   "manifest_version": 2,
+   "description": "The website of Team 2485, the W.A.R. (We Are Robot) Lords, a FIRST robotics team.",
+   "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+   },
+   "app": {
+      "launch": {
+         "web_url": "http://robotics.francisparker.org/?utm_source=chrome"
+      },
+      "urls": [ "http://robotics.francisparker.org/" ]
+   }
+}
