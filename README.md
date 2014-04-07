@@ -12,6 +12,10 @@ Provides a link to [our website][website] from the new tab page.
 
 The official Chrome theme of Team 2485, the W.A.R. (We Are Robot) Lords.
 
+### [The Windows Aero Theme](themeaero/)
+
+The official Chrome theme of Team 2485, the W.A.R. (We Are Robot) Lords, with Aero transparency.
+
 
 [search]: https://chrome.google.com/webstore/search/team%202485
 [website]: http://robotics.francisparker.org/?utm_source=github
